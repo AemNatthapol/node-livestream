@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "65dd83671f29f6bdc6e5c3f3"
+  },
+  "camID": "CAM01",
+  "ip": "192.168.1.121",
+  "user": "admin",
+  "password": "Partnerhub24"
+},
+{
+  "_id": {
+    "$oid": "65dd83671f29f6bdc6e5c3f4"
+  },
+  "camID": "CAM02",
+  "ip": "192.168.1.122",
+  "user": "admin",
+  "password": "Partnerhub24"
+},
+{
+  "_id": {
+    "$oid": "65dd83671f29f6bdc6e5c3f5"
+  },
+  "camID": "CAM03",
+  "ip": "192.168.1.112",
+  "user": "admin",
+  "password": "Partnerhub24"
+}]
